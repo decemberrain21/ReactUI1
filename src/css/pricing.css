@@ -1,0 +1,26 @@
+body{
+    background-color: #173d50;
+}
+.selected{
+    border: 2px solid orange;
+}
+.toggleperiod, .pricing{
+    text-align: center;
+}
+.pricingHeader{
+    padding: 5px;
+}
+.pricingHeader .price{
+    font-size: 20px;
+}
+.pricingHeader .currency{
+    position: relative;
+    top: -57px;
+    
+}
+.pricingHeader .pricevalue{
+    font-size: 70px;
+}
+.priceDiv{
+    background-color: white;
+}
